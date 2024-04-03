@@ -30,6 +30,10 @@
     color: #fff;
     cursor: pointer;
     margin: 12px;
+    
+}
+.hovercalculadora form input{
+    color: white;
 }
 form .display{
     display: flex;
