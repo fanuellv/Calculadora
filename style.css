@@ -32,8 +32,9 @@
     margin: 12px;
     
 }
-.hovercalculadora form input{
-    color: white;
+.calculadora form input:hover{
+    background: #fff;
+    color: #292929;
 }
 form .display{
     display: flex;
